@@ -1,4 +1,4 @@
-#RGBNDR
+# RGBNDR
 
 RGBNDR is a video synthesiser made by circuit bending a VGA test generator. Inspired by [CHA/V by Jonas Bers](https://jonasbers.com/chav/).
 
