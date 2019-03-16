@@ -1,0 +1,15 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"MF";"MP";"PACKAGE";"PRICE";"PROD_ID";"SF_ID";"SF_SKU";"SPICEPREFIX";"VALUE";
+"5";"";"CONN_01PTH_NO_SILK_YES_STOP";"1X01_NO_SILK";"J3, J4, J5, J6, J7";"Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";"";
+"2";"";"CONN_04";"1X04";"J1, J8";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"CONN-09696";"";"";"";"";
+"13";"";"OS102011MS2QN1";"SW_OS102011MS2QN1";"S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13";"Switch Slide ON ON SPDT Top Slide 0.1A 12VDC 10000Cycles PC Pins Thru-Hole Bulk";"Unavailable";" Switch Slide ON ON SPDT Top Slide 0.1A 12VDC 10000Cycles PC Pins Thru-Hole Bulk ";"C&K";"OS102011MS2QN1";"DO-201 C&amp";"K Components";"None";"";"";"";"";
+"7";"0.1uF";"C-EU025-025X050";"C025-025X050";"C2, C4, C6, C8, C9, C12, C13";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"";"C";"";
+"5";"100R";"1KOHM-HORIZ-1/4W-1%";"AXIAL-0.3";"R6, R7, R8, R9, R10";"1kΩ resistor";"";"";"";"";"";"";"RES-12182";"";"";"";"1k";
+"6";"100k";"POTENTIOMETER-PTH-9MM-1/20W-20%";"POT-PTH-ALPS";"VR1, VR2, VR3, VR4, VR5, VR6";"Potentiometer (Pot)";"";"";"";"";"";"";"RES-09177";"";"COM-09288";"";"10k";
+"5";"100uF";"100UF-POLAR-RADIAL-2.5MM-25V-20%";"CPOL-RADIAL-2.5MM-6.5MM";"C1, C3, C5, C7, C10";"100µF polarized capacitors";"";"";"";"";"";"";"CAP-08439";"";"";"";"100uF";
+"1";"20k";"1KOHM-HORIZ-1/4W-1%";"AXIAL-0.3";"R1";"1kΩ resistor";"";"";"";"";"";"";"RES-12182";"";"";"";"1k";
+"1";"22pF";"22PF-PTH-2.54MM-200V-5%";"CAP-PTH-2.54";"C11";"22pF ceramic capacitors";"";"";"";"";"";"";"CAP-09128";"";"";"";"22pF";
+"1";"40106N";"40106N";"DIL14";"IC1";"Hex SCHMITT TRIGGER";"";"";"";"";"";"";"";"";"";"";"";
+"1";"4046N";"4046N";"DIL16";"IC2";"Micropower PLL";"";"";"";"";"";"";"";"";"";"";"";
+"1";"4070N";"4070N";"DIL14";"IC3";"Quad 2-input XOR";"";"";"";"";"";"";"";"";"";"";"";
+"4";"LDR";"PHOTOCELLPTH";"PHOTOCELL";"R2, R3, R4, R5";"Photocell (Photodetector, Photo Resistor, CdS)";"";"";"";"";"";"";"COMP-09129";"SEN-09088";"";"";"";
+"16";"THONKICONNNEW";"THONKICONNNEW";"WQP-PJ301M-12_JACK";"OSC1_OUT, OSC1_SYNC, OSC2_OUT, OSC2_SYNC, OSC3_OUT, OSC3_SYNC, OSC4_OUT, OSC4_SYNC, PLL_MOD, PLL_OUT, XOR_IN_1, XOR_IN_2, XOR_IN_3, XOR_IN_4, XOR_OUT_1, XOR_OUT_2";"3.5mm socket for Eurorack modular synths";"";"";"";"";"";"";"";"";"";"";"";

@@ -1,0 +1,16 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"MF";"MP";"PACKAGE";"PRICE";"PROD_ID";"SF_SKU";"SPICEPREFIX";"VALUE";
+"3";"";"CONN_01PTH_NO_SILK_YES_STOP";"1X01_NO_SILK";"ALL_J1, ALL_J2, ALL_J3";"Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";
+"2";"";"CONN_04";"1X04";"J3, J6";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"CONN-09696";"";"";"";
+"2";"";"CONN_13LONGPADS";"1X13-LONGPADS";"J1, J2";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";
+"1";"";"LED3MM";"LED_3MM";"PWR_LED";"LED (Generic)";"";"";"";"";"";"";"DIO-08794";"";"";"";
+"2";"";"MOMENTARY-SWITCH-SPST-PTH-6.0MM";"TACTILE_SWITCH_PTH_6.0MM";"MODE_BTN, RATE_BTN";"Momentary Switch (Pushbutton) - SPST";"";"";"";"";"";"";" SWCH-08441";"COM-00097";"";"";
+"5";"";"OS102011MS2QN1";"SW_OS102011MS2QN1";"OFF/ON, S1, S2, S3, S4";"Switch Slide ON ON SPDT Top Slide 0.1A 12VDC 10000Cycles PC Pins Thru-Hole Bulk";"Unavailable";" Switch Slide ON ON SPDT Top Slide 0.1A 12VDC 10000Cycles PC Pins Thru-Hole Bulk ";"C&K";"OS102011MS2QN1";"DO-201 C&amp";"K Components";"None";"";"";"";
+"3";"0.1uF";"C-EU025-025X050";"C025-025X050";"C1, C3, C5";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"C";"";
+"3";"100uF";"100UF-POLAR-RADIAL-2.5MM-25V-20%";"CPOL-RADIAL-2.5MM-6.5MM";"C2, C4, C6";"100µF polarized capacitors";"";"";"";"";"";"";"CAP-08439";"";"";"100uF";
+"3";"10k";"POTENTIOMETER-PTH-9MM-1/20W-20%";"POT-PTH-ALPS";"VR1, VR2, VR3";"Potentiometer (Pot)";"";"";"";"";"";"";"RES-09177";"COM-09288";"";"10k";
+"1";"1N4004";"DIODE-PTH";"DIODE-1N4001";"D1";"Diode";"";"";"";"";"";"";"DIO-09176";"";"";"1A/50V/1.1V";
+"3";"1N4148";"DIODE-1N4148";"DIODE-1N4148";"D2, D3, D4";"Diode";"";"";"";"";"";"";"DIO-08378";"";"";"200mA/100V/1V";
+"2";"1k";"1KOHM-HORIZ-1/4W-1%";"AXIAL-0.3";"R1, R2";"1kΩ resistor";"";"";"";"";"";"";"RES-12182";"";"";"1k";
+"1";"2N2222";"TRANS_NPN-2N3904";"TO-92";"Q1";"NPN transistor";"";"";"";"";"";"";"TRANS-08447";"";"";"200mA/40V";
+"1";"POWER_JACK";"POWER_JACK";"POWER_JACK_PTH";"J4";"Power Jack Connector";"";"";"";"";"";"";"CONN-08197";"";"";"";
+"8";"THONKICONNNEW";"THONKICONNNEW";"WQP-PJ301M-12_JACK";"ALL, BLUE, BOUT, GOUT, GREEN, MODE, RED, ROUT";"3.5mm socket for Eurorack modular synths";"";"";"";"";"";"";"";"";"";"";
