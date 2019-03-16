@@ -20,11 +20,11 @@ You will need to build two boards: RGBNDR board and Modulator board:
 
 Here's a RGBNDR board hooked up to two modulator boards:
 
-![](./img/Boards ready.JPG)
+![](./img/Boards%20ready.JPG)
 
 Here's a quick tip on how to solder:
 
-[![How to solder](./img/Vimeo_thumbnail 2.png)](https://vimeo.com/324415428)
+[![How to solder](./img/Vimeo_thumbnail%202.png)](https://vimeo.com/324415428)
 
 
 
@@ -32,7 +32,7 @@ Here's a quick tip on how to solder:
 
 Here's what you'll need:
 
-![](./img/RGBNDR BOM.jpg)
+![](./img/RGBNDR%20BOM.jpg)
 
 | Num | Part | Val | Comment | Link |
 |-----|------|-----|---------|------|
@@ -54,39 +54,39 @@ Here's what you'll need:
 
 Start with adding caps to the bottom side. Remember to check polarity on electrolytic caps!
 
-![](./img/RGBNDR caps.jpg)
+![](./img/RGBNDR%20caps.jpg)
 
 Use cap legs that you just cut out as jumpers. You'll need three. On the board there is three spots for 1N4148 diode. Use the jumpers instead.
 
-![](./img/RGBNDR jumpers.jpg)
+![](./img/RGBNDR%20jumpers.jpg)
 
 Add two 1k resistors and 1N4004 diode. Remember to check diode polarity!
 
-![](./img/RGBNDR res.jpg)
+![](./img/RGBNDR%20res.jpg)
 
 Next one is a bit tricky. You'll need to solder header pins to the board. I like to place the header pins on the board, put a piece on cardboard on top of the pins and then flip the whole thing over with the cardboard keeping the pins where they should be. Usually they fall all over the place.
 
-![](./img/RGBNDR headers.jpg)
+![](./img/RGBNDR%20headers.jpg)
 
 Then: pushbuttons, transistor (match the flat side to the flat line on the board ) and led. Long leg goes to +.
 
-![](./img/RGBNDR others.jpg)
+![](./img/RGBNDR%20others.jpg)
 
 Add female angle header for connecting with other board. Use a helping hand to get the angle header high enough:
 
-![](./img/RGBNDR board connector.jpg)
+![](./img/RGBNDR%20board%20connector.jpg)
 
-![](./img/RGBNDR board connector 2.jpg)
+![](./img/RGBNDR%20board%20connector%202.jpg)
 
 Add (in this order): 5 slide switches, power connector, three 3.5mm mono jacks, three 10k potentiometers. For pots and slide switches it's ok to solder only the three middle pins.
 
-![](./img/RGBNDR rest.jpg)
+![](./img/RGBNDR%20rest.jpg)
 
 Solder wires from the test gen board to the RGBNDR board.
 
-![](./img/VGA test generator bottom.jpg)
+![](./img/VGA%20test%20generator%20bottom.jpg)
 
-![](./img/VGA test generator pins.jpg)
+![](./img/VGA%20test%20generator%20pins.jpg)
 
 Done!
 
@@ -94,7 +94,7 @@ Done!
 
 Here's what you'll need:
 
-![](./img/Modulatro BOM.jpg)
+![](./img/Modulatro%20BOM.jpg)
 
 | Num | Part | Val | Comment | Link |
 |-----|------|-----|---------|------|
@@ -131,7 +131,7 @@ Few tips:
 
 Use IC sockets and align them correctly. I made a mistake on the photo:
 
-![](./img/Modulator ICs.jpg)
+![](./img/Modulator%20ICs.jpg)
 
 You can chose what ever values for oscillator caps you want. Together with a potentiometer these will define frequency for an oscillator. For each oscillator you can pick big and small cap and change between those with a switch.
 
@@ -144,15 +144,15 @@ My setup is like this but try your own values!
 
 I put the big caps on the bottom side.
 
-![](./img/Modulator caps.jpg)
+![](./img/Modulator%20caps.jpg)
 
 After some soldering it should look more or less like this:
 
-![](./img/Modulator done.jpg)
+![](./img/Modulator%20done.jpg)
 
 Hook it up with RGBNDR and that's it!
 
-![](./img/RGBNDR and modulator.jpg)
+![](./img/RGBNDR%20and%20modulator.jpg)
 
 Later you can make a box for it. Here's an older version with jacks:
 
